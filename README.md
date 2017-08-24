@@ -1,2 +1,2 @@
-# Java-B-sico
+# Java-Basico
 Aprendendo e Praticando JavaSE 1.8
